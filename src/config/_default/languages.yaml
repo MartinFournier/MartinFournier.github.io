@@ -1,0 +1,32 @@
+en:
+  weight: 1
+  languageName: ":us: English"
+  title: "mfournier | Software Development · System Administration"
+  description: "Profile & contact page for Martin Fournier, Software developer & system administrator"
+  keywords: [Portfolio, Contact, Software, Administration, Development, DevOps]
+  params:
+    profileMode:
+      enabled: true
+      title: Martin Fournier
+      subtitle: "Software Development · System Administration"
+      imageUrl: "/images/avatar.png"
+      imageWidth: 400
+      imageHeight: 400
+      imageTitle: Martin Fournier
+
+fr:
+  weight: 2
+  languageName: ":fr: Français"
+  title: "mfournier | Développement logiciel · Administration de systèmes"
+  description: "Profil & contact pour Martin Fournier en développement logiciel et administration de systèmes"
+  keywords: [Portfolio, Contact, Logiciel, Administration, Développement, DevOps]
+  params:
+    profileMode:
+      enabled: true
+      title: Martin Fournier
+      subtitle: "Développement logiciel · Administration de systèmes"
+      imageUrl: "/images/avatar.png"
+      imageWidth: 400
+      imageHeight: 400
+      borderRadius: 4
+      imageTitle: Martin Fournier

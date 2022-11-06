@@ -1,0 +1,10 @@
+baseURL: "https://martin.mfournier.com"
+title: Martin Fournier
+theme: PaperMod
+enableRobotsTXT: true
+enableEmoji: true
+
+paginate: 5
+buildDrafts: false
+buildFuture: false
+buildExpired: false

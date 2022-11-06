@@ -1,0 +1,69 @@
+#top {
+  background-color: #22223b;
+}
+
+html.wf-loading * {
+  opacity: 0;
+}
+
+header {
+  background-color: #d7f2ba;
+  color: #22223b;
+  box-shadow: 0 2px 2px #aaa;
+}
+
+header a {
+  color: #22223b;
+}
+
+header .logo a,
+.profile h1 {
+  font-family: Amaranth, Palatino, Georgia, serif;
+}
+
+header .logo a img {
+  min-width: 24px;
+}
+
+header .lang-switch a,
+.profile span {
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+  text-shadow: 1px 1px 1px white;
+}
+
+.profile {
+  margin: 20px 0;
+}
+
+.profile h1 {
+  color: white;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6), 1px 3px 0px #538cfccc,
+    -1px -1px 1px rgba(0, 0, 0, 0.6), -1px -3px 0px #ff7477cc;
+  font-size: 3em;
+}
+
+.profile span {
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+}
+
+.profile img {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 2px;
+  border: 2px solid #47e3fc;
+  box-shadow: inset 0 100px #538cfc, inset 100px 0 #31b07b,
+    inset 0 200px #d7f2ba, inset 200px 0 #53fcb6, inset 220px 220px #fdacd2,
+    4px 12px #fc60a8, -4px -12px #fcee79,
+    0px -0px 30px rgba(255, 255, 255, 0.15);
+}
+
+.social-icons {
+  margin-top: 10px;
+}
+
+html {
+  min-height: 100vh;
+  box-shadow: inset 0px -12px 0 #fc60a8, inset 0px -20px #fdacd2,
+    inset 0px -24px #47e3fc, inset 0px -26px #538cfc,
+    inset 0px -27px rgba(255, 255, 255, 0.8);
+}

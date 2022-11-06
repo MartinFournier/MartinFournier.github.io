@@ -1,0 +1,44 @@
+author: mfournier
+images: ["/assets/avatar.png"]
+
+DateFormat: "January 2, 2006"
+defaultTheme: dark # dark, light
+disableThemeToggle: true
+displayFullLangName: true
+ShowReadingTime: true
+ShowShareButtons: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: false
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+disableSpecial1stPost: true
+disableScrollToTop: true
+comments: false
+hidemeta: false
+hideSummary: false
+hideFooter: true
+showtoc: false
+tocopen: false
+
+assets:
+  disableHLJS: true # to disable highlight.js
+  disableFingerprinting: true
+  favicon: "favicon.ico"
+  favicon16x16: "favicon.ico"
+  favicon32x32: "favicon.ico"
+  apple_touch_icon: "/images/avatar.png"
+  safari_pinned_tab: "/images/avatar.png"
+
+label:
+  text: "mfournier"
+  icon: /images/avatar.png
+  iconHeight: 24
+  iconWidth: 24
+
+socialIcons:
+  - name: github
+    url: "https://github.com/MartinFournier/"
+  - name: linkedin
+    url: "https://www.linkedin.com/in/martin-fournier-19165411a/"
