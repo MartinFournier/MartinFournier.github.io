@@ -10,8 +10,8 @@ en:
       title: Martin Fournier
       subtitle: "Software Development · System Administration"
       imageUrl: "/images/avatar.png"
-      imageWidth: 400
-      imageHeight: 400
+      imageWidth: 320
+      imageHeight: 320
       imageTitle: Martin Fournier
 
 fr:
@@ -26,7 +26,6 @@ fr:
       title: Martin Fournier
       subtitle: "Développement logiciel · Administration de systèmes"
       imageUrl: "/images/avatar.png"
-      imageWidth: 400
-      imageHeight: 400
-      borderRadius: 4
+      imageWidth: 320
+      imageHeight: 320
       imageTitle: Martin Fournier
