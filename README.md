@@ -1,6 +1,6 @@
 # Martin Fournier
 
-Hi! This is my personal website [demo'ed here](https://mfournier.com).
+Hi! This is my personal website [demo'ed here](https://dev.mfournier.com).
 
 Powered by [Hugo](https://gohugo.io) & [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)
 

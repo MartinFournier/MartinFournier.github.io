@@ -1,9 +1,8 @@
-baseURL: "https://martin.mfournier.com"
+baseURL: "https://dev.mfournier.com"
 title: Martin Fournier
 theme: PaperMod
 enableRobotsTXT: true
 enableEmoji: true
-
 paginate: 5
 buildDrafts: false
 buildFuture: false

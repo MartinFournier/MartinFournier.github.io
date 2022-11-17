@@ -3,10 +3,6 @@ googleAnalytics: G-2KN523NZC1
 params:
   env: production
 
-  analytics:
-    google:
-      SiteVerificationTag: "G-2KN523NZC1"
-
 minify:
   disableXML: true
   minifyOutput: true
